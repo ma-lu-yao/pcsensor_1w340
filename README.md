@@ -7,13 +7,15 @@ Temperature Only.
 
 TODO: Humiture
 
-v0.2
+v0.3
 
 Usage:
 
     -p, --port=PORT: port, a number, must be 5200 now.
     
     -h, --help:      show this usage.
+    
+    -i, --info:      Show information of the sensor
     
     -H, --host=HOST:     Hostname or IP address. default is 192.168.1.188
     
