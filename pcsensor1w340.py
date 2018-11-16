@@ -24,7 +24,7 @@ def usage():
 """ % (sys.argv[0], ))
 if __name__ == '__main__':
   PORT = 5200
-  HOSTNAME='111.204.125.108'
+  HOSTNAME='192.168.1.188'
   try:
     opts, args = getopt.getopt(sys.argv[1:],
     "ih:H:p:v",
